@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PC Components</string>
+    <string name="cpu">CPU</string>
+    <string name="exp">Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512900K</string>
+    <string name="delivery">Hızlı Teslimat</string>
+    <string name="shipping">Bedava Kargo</string>
+    <string name="stock">Stokta Yok</string>
+    <string name="price">9000 ₺</string>
+    <string name="alarm">Alarm Kur</string>
+    <string name="addToCart">Sepete Ekle</string>
+</resources>
